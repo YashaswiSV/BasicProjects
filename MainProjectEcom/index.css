@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav{
+    display: flex;
+}
+#nav #nav1{
+
+} 
+#nav #nav2{
+    display: flex;
+    
+}#nav #nav2 li {
+    text-decoration: none; 
+
+}
+#nav #nav2 a{
+    text-decoration: none;
+   
+}
