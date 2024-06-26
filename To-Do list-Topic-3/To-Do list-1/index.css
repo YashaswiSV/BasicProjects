@@ -1,0 +1,42 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(36, 31, 31);
+}
+#todo{
+    background-color: beige;
+    width: 350px;
+    padding-bottom: 50px;
+    /* height: 200px; */
+   
+
+}
+#todo h1{
+   padding: 30px;
+}
+#todo #text{
+    
+    /* text-align: ; */
+}
+#todo #inp{
+    height: 18px;
+}
+#todo button{
+    height: 23px;
+}
+#text ul{
+    position: relative;
+    background-color: black;
+    color: beige;
+    text-align: left;
+    padding: 9px;
+    width: 300px;
+
+}
+#text i{
+    position: absolute;
+    color: beige;
+    left: 270px;
+   
+}
